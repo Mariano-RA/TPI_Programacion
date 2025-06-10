@@ -43,7 +43,7 @@ En las búsquedas se utilizó como objetivo un número inexistente (`-1`) para f
 
 ---
 
-## 📈 Ejemplo de Resultados
+## 📈 Video
 
-### Ordenamiento (lista aleatoria de 1000 elementos)
+### https://youtu.be/h_wI7FvtHjs
 
